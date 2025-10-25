@@ -9,7 +9,7 @@ if your school ever restricts this just fork and deploy to GitHub Pages or use t
 <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fxnvz%2Fnebula"><img src="https://vercel.com/button" alt="Deploy with Vercel"/></a>
 <a href="https://heroku.com/deploy?template=https://github.com/xnvz/nebula"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
-..or just use the alt links if you don't want to selfhost.
+..or just use the alt links if you don't want to selfhost. 
 
 study-forums.netlify.app
 
